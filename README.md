@@ -8,8 +8,8 @@ Please refer to the Manuscript for further information.
 
 ## Software installation
 
-Please find the instructions on how to install and run ScanGrow [version Proof of Concept] in the user manual (/App_Poc/ScanGrow_Manual.pdf). A quick guide containing a sample set of images and instructions on how to process them is also included (/App_PoC/Quick_guide.zip).
-Please download the installer (/App_Poc/ScanGrow_Installer_PoC.msi) and run it in Admin mode to install the standalone app.
+Please find the instructions on how to install and run ScanGrow [version Proof of Concept] in the user manual (/Installation_package/ScanGrow_Manual.pdf). A quick guide containing a sample set of images and instructions on how to process them is also included (/Installation_package/QSG.zip).
+Please download the installer (/Installation_package/ScanGrow_Installer_PoC.msi) and run it in Admin mode to install the standalone app.
 
 
 ## Source code
