@@ -19,4 +19,4 @@ Please find all the source code for the app, the installer and the Machine learn
 
 ## Manuscript files
 
-Files to reproduce the results described in the Manuscript can be found here: https://figshare.com/s/22e55542da3e976531ce [to be updated with final doi link].
+Files to reproduce the results described in the Manuscript can be found here: https://doi.org/10.6084/m9.figshare.16822924 
